@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\A  files\\NcmToMp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|d:\\vs\\a  files\\ncmtomp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|d:\\vs\\a  files\\ncmtomp3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|d:\\vs\\a  files\\ncmtomp3\\ncmtomp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|solutionrelative:ncmtomp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|d:\\vs\\a  files\\ncmtomp3\\services\\ncmconvertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|solutionrelative:services\\ncmconvertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|d:\\vs\\a  files\\ncmtomp3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AD02AE-33D1-427F-82E0-1D30A970FDB7}|NcmToMp3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NcmToMp3",
+              "DocumentMoniker": "D:\\VS\\A  files\\NcmToMp3\\NcmToMp3.csproj",
+              "RelativeDocumentMoniker": "NcmToMp3.csproj",
+              "ToolTip": "D:\\VS\\A  files\\NcmToMp3\\NcmToMp3.csproj",
+              "RelativeToolTip": "NcmToMp3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T13:26:39.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS\\A  files\\NcmToMp3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VS\\A  files\\NcmToMp3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T13:22:49.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\A  files\\NcmToMp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VS\\A  files\\NcmToMp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:16:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VS\\A  files\\NcmToMp3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VS\\A  files\\NcmToMp3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:11:23.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NcmConvertService.cs",
+              "DocumentMoniker": "D:\\VS\\A  files\\NcmToMp3\\Services\\NcmConvertService.cs",
+              "RelativeDocumentMoniker": "Services\\NcmConvertService.cs",
+              "ToolTip": "D:\\VS\\A  files\\NcmToMp3\\Services\\NcmConvertService.cs",
+              "RelativeToolTip": "Services\\NcmConvertService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:46:43.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

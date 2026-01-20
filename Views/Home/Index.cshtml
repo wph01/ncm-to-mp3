@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "NCM转MP3在线工具";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">🎵 NCM转MP3在线工具</h1>
+
+    @if (ViewBag.Success != null && ViewBag.Success)
+    {
+        <div class="alert alert-success text-center">
+            <strong>转换成功！</strong>
+            <a href="@ViewBag.DownloadUrl" class="btn btn-primary ml-2" download="@ViewBag.FileName">下载MP3文件</a>
+        </div>
+    }
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger text-center">
+            <strong>转换失败！</strong> @ViewBag.Error
+        </div>
+    }
+
+    <div class="card mx-auto" style="max-width: 500px;">
+        <div class="card-body">
+            <form method="post" enctype="multipart/form-data" asp-action="Convert">
+                <div class="form-group">
+                    <label for="file">选择NCM文件（≤100MB）</label>
+                    <input type="file" class="form-control-file" id="file" name="file" accept=".ncm" required>
+                    <small class="form-text text-muted">仅支持未加密的NCM格式文件</small>
+                </div>
+                <button type="submit" class="btn btn-block btn-success">开始转换</button>
+            </form>
+        </div>
+    </div>
+</div>
